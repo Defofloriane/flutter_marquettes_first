@@ -82,7 +82,7 @@ class _ClipUpPageState extends State<ClipUpPage> {
                 scrollDirection: Axis.vertical,
                 child: Container(
                   width: double.infinity,
-                  height: iscolum ? 900 : 500,
+                  height: iscolum ? 1200 : 900,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.only(
                       topLeft: Radius.circular(40),
